@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: chat-choeuhyeon
+Version: 0.0.3
+Summary: Education material "simple chat program"
+Author: choeuhyeon
+Author-email: a01075451008@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
